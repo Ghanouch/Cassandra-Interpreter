@@ -1,1 +1,2 @@
-Notre interpréteur Cassandra , est un outil ayant pour tâche d'analyser, de traduire et d'exécuter les programmes écrits dans un langage cqls
+Notre interpréteur Cassandra , est un outil ayant pour tâche d'analyser, de traduire et d'exécuter les programmes écrits dans un langage cql.
+Vous pouvez consulter le dossier "Code Source" et voir la démarche pour préparer l'environnement d'éxécution .
